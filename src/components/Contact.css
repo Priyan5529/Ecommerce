@@ -1,0 +1,165 @@
+.contact-section {
+  padding: 7em 0;
+  background-color: pink !important;
+}
+
+.wrapper {
+  width: 100%;
+  box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+}
+
+.contact-wrap h3 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+.img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.one {
+  color: black;
+}
+
+.form-control {
+  height: 62px !important;
+  color: black !important;
+  font-size: 14px !important;
+  padding: 5px !important;
+  margin: 5px !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-color: black !important;
+}
+.form-control::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: black !important;
+}
+
+textarea.form-control {
+  height: inherit !important;
+  margin-top: 5px;
+}
+
+.contactForm .form-control {
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 0;
+}
+
+.btn {
+  padding: 12px 16px;
+  cursor: pointer;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 400;
+  box-shadow: 0px 10px 20px -6px rgba(0, 0, 0, 0.12);
+  position: relative;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: #d62196 !important;
+  border-color: #d62196 !important;
+  color: #fff;
+}
+
+.info-wrap h3 {
+  color: #000;
+  position: relative;
+  padding: 5px !important;
+}
+.info-wrap h3:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 130px;
+  height: 2px;
+  content: "";
+  background: white;
+}
+.info-wrap .two {
+  color: black;
+  font-weight: 300px;
+  text-align: left;
+}
+.info-wrap .three {
+  color: black;
+}
+.info-wrap .dbox {
+  width: 100%;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 25px;
+}
+.info-wrap .dbox:last-child() {
+  margin-bottom: 0;
+}
+.info-wrap .dbox p {
+  margin-bottom: 0;
+}
+.info-wrap .dbox p span {
+  font-weight: 400;
+  color: white;
+}
+.info-wrap .dbox p a {
+  color: white;
+}
+.info-wrap .dbox .icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  color: black;
+}
+.info-wrap .dbox .icon span {
+  font-size: 20px;
+  color: white;
+}
+.info-wrap .dbox .text {
+  width: calc(100% - 50px);
+}
+.info-wrap .four {
+  color: black;
+}
+.info-wrap .five {
+  color: black;
+}
+.info-wrap .six {
+  color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: "Poppins", Arial, sans-serif;
+  color: #000;
+}
+
+a {
+  transition: 0.3s all ease;
+  color: #d62196;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: none !important;
+  outline: none !important;
+  box-shadow: none;
+}
+
+#contactForm .form-control {
+  font-size: 16px;
+}/*# sourceMappingURL=Contact.css.map */

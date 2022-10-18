@@ -1,0 +1,89 @@
+.bro{
+    background-color: pink;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.bronzer_1 {
+    width: 100% !important;
+    justify-content: center;
+    align-items: center;
+    padding: 20px auto;
+    margin: 30px auto;
+    background-color: pink;
+    
+}
+
+.img {
+    width: 500px;
+    height: 500px; 
+    padding: 0px !important;
+    justify-content: center;
+}
+
+.bcards {
+    height: 40% !important;
+    width: 30% !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    padding: 10px auto;
+    margin: 10px auto;
+    text-align: center;
+    /* margin-left: 5px; */
+}
+
+.bimage {
+    width: 100px;
+    height: 250px; 
+    padding: 0px !important;
+    justify-content: center;
+   
+}
+
+.btitle {
+    color: #0F1111!important;
+    text-rendering: optimizeLegibility;
+    font-size: 18px!important;
+    line-height: 24px!important;
+    font-weight: 400!important;
+    font-style: normal!important;
+    text-transform: none!important;
+    text-decoration: none!important;
+    text-decoration-line: none !important;
+    text-decoration-thickness: initial !important;
+    text-decoration-style: initial !important;
+    text-decoration-color: initial !important;
+    text-align: center;
+}
+
+.bprice {
+    font-size: 28px;
+    color: #0F1111;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    position: relative;
+    line-height: normal;
+    text-align: center;
+}
+
+.brating {
+    font-size: 15px;
+    color: #0F1111;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    position: relative;
+    line-height: normal;
+    text-align: center;
+}
+

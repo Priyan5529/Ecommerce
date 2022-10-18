@@ -1,0 +1,16 @@
+.navbar {
+    background-color: black;
+}
+
+.Navbar .container {
+    display: flex;
+    padding: 2px !important;
+}
+.img-wrapper {
+    padding: 2px !important;
+}
+
+.img2 {
+    height: 250px !important;
+    width: 100%;
+}
